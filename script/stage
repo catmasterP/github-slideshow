@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "Test"  #this is my training edit
+
 red=$'\e[1;31m'
 grn=$'\e[1;32m'
 end=$'\e[0m'
